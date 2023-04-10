@@ -12,3 +12,7 @@ The Data Cleaning was performed using the file: data_cleaning/DATA_3320_Seattle_
 It joins the two datasets, filters out the unnecessary values, and fills out missing data when necessary.
 
 The clean dataset is named data_cleaning/clean_seattle_stl_weather.csv.
+
+# Data Analysis
+Data Analysis was done using the file: data_analysis/DATA_3320_Seattle_St_Louis_Analysis_Stephen_Yang.ipynb
+It makes a few graphs examining number of days with amounts of rain, number of rainy days, and amount of rain when it does rain.
